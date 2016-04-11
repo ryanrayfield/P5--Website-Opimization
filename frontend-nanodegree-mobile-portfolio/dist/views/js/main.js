@@ -532,7 +532,6 @@ window.addEventListener('scroll', updatePositions);
 document.addEventListener('DOMContentLoaded', function() {
     var intFrameHeight = window.innerHeight;
     var numPizzas = intFrameHeight / 10;
-     //var numPizzas = intFrameHeight / (s * cols);
     console.log(intFrameHeight);
     var cols = 8;
     var s = 256;
