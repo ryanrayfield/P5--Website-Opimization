@@ -4,10 +4,9 @@
   "description": "Udacity Optimization Project",
   "main": "Gruntfile.js",
   "dependencies": {
-    "grunt": "^1.0.1",
     "grunt-contrib-concat": "^1.0.0",
+    "grunt": "^1.0.1",
     "grunt-contrib-imagemin": "^1.0.0",
-    "imagemin-mozjpeg": "^5.1.0",
     "imagemin-optipng": "^4.3.0"
   },
   "devDependencies": {
